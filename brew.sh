@@ -76,6 +76,8 @@ brew install pidcat   # colored logcat guy
 brew install ncdu # find where your diskspace went
 
 brew install zsh
+brew install cdrtools # prepare vagrant boxes (mkisofs, 7zip)
+brew install p7zip
 
 # Remove outdated versions from the cellar
 brew cleanup

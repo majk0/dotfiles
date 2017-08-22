@@ -20,12 +20,12 @@ brew cask install rescuetime
 
 # dev
 brew cask install iterm2
-brew cask install sublime-text
+brew cask install atom
 brew cask install imagealpha
 brew cask install imageoptim
 
 # fun
-brew cask install limechat
+# brew cask install limechat
 # brew cask install miro-video-converter
 # brew cask install horndis               # usb tethering
 
@@ -38,10 +38,10 @@ brew cask install limechat
 
 # less often
 brew cask install disk-inventory-x
-brew cask install screenflow
+#brew cask install screenflow
 brew cask install vlc
 brew cask install gpgtools
-brew cask install licecap
+# brew cask install licecap
 # brew cask install utorrent
 
 brew cask install spotify
