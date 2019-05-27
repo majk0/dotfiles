@@ -2,6 +2,7 @@
 # don't run it.
   echo "do not run this script in one go. hit ctrl-c NOW"
   read -n 1
+#  read -n 1
 
 
 ##############################################################################################################
@@ -222,7 +223,7 @@ git config status.showuntrackedfiles no
 git update-index --untracked-cache
 
 # also this unrelated thing
-git config user.email "michal.czaja@satel.pl"
+git config user.email "miczaja@gmail.com"
 
 
 ##############################################################################################################
